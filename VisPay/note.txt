@@ -1,2 +1,61 @@
 1. Add MAUI
 2. Jasmine in the content
+
+
+
+# We have to add link reference for this
+Microservices
+OAuth 2.0
+Blockchain 
+Zero Trust Architecture
+End-to-End Encryption
+Auto-scaling - Understand 
+Service Mesh - Understand 
+Distributed Tracing
+Centralized Logging
+React Native
+Flutter for mobile,
+.Net MAUI
+React.js
+Angular 
+Asp.Net Core
+Express.js
+MySQL 
+MongoDB
+RESTful APIs
+GraphQL
+Kubernetes
+Redis
+Memcached
+API Gateway
+Event-Driven Architecture
+Horizontal Scaling
+Load Balancing
+Audit Trails
+Multi-Factor Authentication
+X-axis Scaling
+Y-axis Scaling
+Z-axis Scaling
+Round Robin
+.Net
+Node.js
+ACID 
+NoSQL
+RabbitMQ
+Apache Kafka
+Kong
+AWS API Gateway
+Prometheus
+ELK Stack (Elasticsearch, Logstash, Kibana)
+Docker
+Kubernetes
+JWT (JSON Web Tokens): 
+Dart 
+Redux
+MobX
+Jasmine
+Jest
+Cypress
+Accessible Rich Internet Applications
+Content Security Policy (CSP)
+COR
